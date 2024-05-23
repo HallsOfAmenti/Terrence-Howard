@@ -1,4 +1,7 @@
-- [Joe Rogan Experience #2152 - Terrence Howard](https://youtu.be/g197xdRZsW0)
+# Terrence Howard & Joe Rogan
+- original: [Joe Rogan Experience #2152 - Terrence Howard](https://youtu.be/g197xdRZsW0)
+
+sch: https://www.google.com/search?q=terrence+howard+joe+rogan
 
 # Relation:
 https://www.goodreads.com/book/show/2046127.The_Universal_One
