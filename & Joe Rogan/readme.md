@@ -2,6 +2,9 @@
 
 # Relation:
 ## Walter Russell's The Universal One
-sch: https://www.google.com/search?q=walter+russell+periodic+table
+sch: https://www.google.com/search?q=walter+russell+periodic+table, https://www.google.com/search?q=Walter+Russell+The+Universal+One+first+published+the+Russell+Periodic+Chart+of+the+Elements+in+1926
 
 >"Walter Russell's The Universal One first published the Russell Periodic Chart of the Elements in 1926. The chart is based on Russell's understanding of periodicity and is said to complete the Mendeleev Chart. The 2018 edition of the chart has updated names for previously titled "UNKNOWN" elements. "
+
+https://www.meta-synthesis.com/webbook/35_pt/pt_database.php?PT_id=147
+https://www.philosophy.org/index.html#/
